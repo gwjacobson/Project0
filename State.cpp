@@ -99,8 +99,7 @@ int main(){
 
 
         }
-        if (sweep % 500 == 0) {
-            print(state);
-        }
+        
+         print(state);
     }
 }
